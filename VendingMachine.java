@@ -1,7 +1,7 @@
 /* Name: Gabriel Arye
    Email: gabrielarye@brandeis.edu
    Date: October 1, 2018
-   PA2, Problem 1: Program uses the Scanner class to take input from the keyboard (standard input),
+   PA2, VendingMachine: Program uses the Scanner class to take input from the keyboard (standard input),
    use the input as cents paid for an item, and return to the user their change in quarters, dimes, and nickels.
    Bugs: None. Also, I added extra output to make the print statements visible to the user be
    more clear. Please don't mark me down on points because it doesn't match the exact output.
