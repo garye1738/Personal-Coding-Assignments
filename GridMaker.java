@@ -1,7 +1,7 @@
 /* Name: Gabriel Arye
    Email: gabrielarye@brandeis.edu
    Date: October 15, 2018
-   PA3, Problem 5: Program uses a Scanner class object to prompt the user for a number of rows and a number of columns. Then it will print out
+   PA3, GridMaker: Program uses a Scanner class object to prompt the user for a number of rows and a number of columns. Then it will print out
    in the rows and columns (the number of each was decided by the user) numbers starting from 1 and ending at the product of rows times columns
    (so if 4 and 6 are entered, the last number in the last column would be 24, which is made from 4*6).
    Bugs: None
