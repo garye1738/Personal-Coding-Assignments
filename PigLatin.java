@@ -1,7 +1,7 @@
 /* Name: Gabriel Arye
    Email: gabrielarye@brandeis.edu
    Date: October 1, 2018
-   PA2, Problem 5: Program uses a Scanner class object to prompt the user for their first and last name. It then creates the user's pig latin
+   PA2, PigLatin: Program uses a Scanner class object to prompt the user for their first and last name. It then creates the user's pig latin
    name and returns it to them.
    Bugs: None.
 */
