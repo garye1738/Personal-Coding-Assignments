@@ -1,7 +1,7 @@
 /* Name: Gabriel Arye
    Email: gabrielarye@brandeis.edu
    Date: October 1, 2018
-   PA2, Problem 3: Program uses a Scanner class object to prompt the user for three integers, which it will find the
+   PA2, Averager: Program uses a Scanner class object to prompt the user for three integers, which it will find the
    average of and return to the user as a double.
    Bugs: None. Don't know if I should use print format (printf) to cut off extra decimal places after average
    is found.
