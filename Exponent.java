@@ -1,7 +1,7 @@
 /* Name: Gabriel Arye
    Email: gabrielarye@brandeis.edu
    Date: October 15, 2018
-   PA3, Problem 2: Program uses a Scanner class object to prompt the user for an exponent to be applied to two (2 to the power of
+   PA3, Exponent: Program uses a Scanner class object to prompt the user for an exponent to be applied to two (2 to the power of
    whatever is entered), and return 2 to the power of the exponent, in addition to two to the power of every integer before the
    entered integer, starting at 0. In other words, if 3 is entered by the user, the program will return 2 to the power of 0,
    2 to the power of 1, 2 to the power of 2, and finally 2 to the power of 3.
