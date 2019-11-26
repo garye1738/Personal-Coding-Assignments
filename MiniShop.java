@@ -1,7 +1,7 @@
 /* Name: Gabriel Arye
    Email: gabrielarye@brandeis.edu
    Date: October 1, 2018
-   PA2, Problem 4: Program uses a Scanner class object to prompt the user for three items,their quantities, and their prices.
+   PA2, MiniShop: Program uses a Scanner class object to prompt the user for three items,their quantities, and their prices.
    Then the program will calculate individual item totals, a subtotal, tax for the purchase, and the final purchase price for the
    user.
    Bugs: None.
