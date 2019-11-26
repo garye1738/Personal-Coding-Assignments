@@ -1,7 +1,7 @@
 /* Name: Gabriel Arye
    Email: gabrielarye@brandeis.edu
    Date: October 1, 2018
-   PA2, Problem 2: Program uses the Scanner class to prompt the user for a distance in miles, which it then converts to
+   PA2, DistanceConvert: Program uses the Scanner class to prompt the user for a distance in miles, which it then converts to
    kilometers and returned as kilometers with the fractional part to two decimal points (hundreths place).
    Bugs: None.
 */
