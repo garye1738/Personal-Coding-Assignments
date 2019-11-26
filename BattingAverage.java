@@ -1,7 +1,7 @@
 /* Name: Gabriel Arye
    Email: gabrielarye@brandeis.edu
    Date: October 15, 2018
-   PA3, Problem 1: Program uses a Scanner class object to prompt the user for how many times a player was at bat,
+   PA3, BattingAverage: Program uses a Scanner class object to prompt the user for how many times a player was at bat,
    and how many times the player earned a hit. The program then gives the user the player's batting average with 4
    decimal points.
    Bugs: None
