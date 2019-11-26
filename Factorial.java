@@ -1,7 +1,7 @@
 /* Name: Gabriel Arye
    Email: gabrielarye@brandeis.edu
    Date: October 15, 2018
-   PA3, Problem 3: Program uses a Scanner class object to prompt the user for three integers, and returns the factorial of
+   PA3, Factorial: Program uses a Scanner class object to prompt the user for three integers, and returns the factorial of
    each integer.
    Bugs: Factorial 13 isn't correct, and any number input that is 13 or higher will not be correct because of overload. int is too
    small to hold so large a number
