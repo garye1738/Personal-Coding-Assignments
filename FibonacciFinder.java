@@ -1,7 +1,7 @@
 /* Name: Gabriel Arye
    Email: gabrielarye@brandeis.edu
    Date: October 15, 2018
-   PA3, Problem 4: Program uses a Scanner class object to prompt the user for the nth term of the Fibonacci sequence,
+   PA3, FibonnaciFinder: Program uses a Scanner class object to prompt the user for the nth term of the Fibonacci sequence,
    and it will return everyterm in the sequence up the entered term.
    Bugs: The 48th term and many terms after in the sequence are negative (due to overloading or overflow?).
 */
