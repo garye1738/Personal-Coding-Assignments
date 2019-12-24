@@ -1,7 +1,7 @@
 /* Name: Gabriel Arye
    Email: gabrielarye@brandeis.edu
    Date: September 21, 2018
-   PA1, Problem 1: Program's purpose is to take a year parameter and print
+   PA1, BirthYear: Program's purpose is to take a year parameter and print
    each digit of the year on a seperate line, with the thousands place number
    (1 in 1998) being on the first line and the ones place number(8 in 1998) being
    on the last line.
