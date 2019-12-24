@@ -1,7 +1,7 @@
 /* Name: Gabriel Arye
    Email: gabrielarye@brandeis.edu
    Date: October 26, 2018
-   PA4, Problem 1: Program uses a Scanner class object to prompt the user for an 
+   PA4, DivideAndMult: Program uses a Scanner class object to prompt the user for an 
    value, then it will divide the value by two if it is odd or multiply it by 3 and 
    add one to it and print back the new value. This process is repeated until the 
    value is 1. 
@@ -10,7 +10,7 @@
 
 import java.util.*;
 
-public class Problem1
+public class DivideAndMult
 {
   /*Main method: creates and invokes an instance object of the Scanner class (named 
   console). It uses a print statement to prompt the user the enter an initial value. 
