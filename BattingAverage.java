@@ -9,7 +9,7 @@
 
 import java.util.*;
 
-public class Problem1
+public class BattingAverage
 {
   /*Main method: initializes and invokes an instance object of the Scanner class (called console). It uses a print statement to prompt
     the user for the amount of times the player was at bat. This is assigned to the int variable atBat using the console object
