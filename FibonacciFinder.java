@@ -7,7 +7,7 @@
 */
 import java.util.*;
 
-public class Problem4
+public class FibonnaciFinder
 {
   /*Main method: initializes and invokes an instance object of the Scanner class (called console). The method uses a print statement to prompt the user
     for the nth term of the Fibonacci sequence that they want to find up to (every term of the sequence up to the entered position). cosnole then assigns
