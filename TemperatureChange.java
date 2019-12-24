@@ -1,7 +1,7 @@
 /* Name: Gabriel Arye
    Email: gabrielarye@brandeis.edu
    Date: September 21, 2018
-   PA1, Problem 3: Program is supposed to be given the high temperature of the
+   PA1, TemperatureChange: Program is supposed to be given the high temperature of the
    day in degrees Fahrenheit (today is actually 72 degrees Fahrenheit) and convert
    it to degrees Celsius.
    Bugs: None
