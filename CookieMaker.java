@@ -1,7 +1,7 @@
 /* Name: Gabriel Arye
    Email: gabrielarye@brandeis.edu
    Date: September 21, 2018
-   PA1, Problem 2: Program takes an amount of cookies, calculates the cups of sugar,
+   PA1, CookieMaker: Program takes an amount of cookies, calculates the cups of sugar,
    butter, and flour needed for each, and gives back the required ingredient
    amounts.
    Bugs: None
