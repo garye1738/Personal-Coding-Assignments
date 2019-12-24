@@ -9,7 +9,7 @@
 
 import java.util.*;
 
-public class Problem3
+public class Factorial
 {
   /*Main method: initalizes and invokes an instance object of the Scanner class (called console). The method uses a print statement
     to prompt the user for a number. console then assigns the entered number to the int variable num1 (using console.nextInt()).
