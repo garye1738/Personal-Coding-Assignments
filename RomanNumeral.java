@@ -1,14 +1,14 @@
 /* Name: Gabriel Arye
    Email: gabrielarye@brandeis.edu
    Date: October 26, 2018
-   PA4, Problem 2: Program uses a Scanner class object to prompt the user for an 
+   PA4, RomanNumeral: Program uses a Scanner class object to prompt the user for an 
    value and then returns the value in Roman numerals.
    Bugs: None
 */
 
 import java.util.*;
 
-public class Problem2
+public class RomanNumeral
 {
   /*Main method: creates and invokes an instance object of the Scanner class (named console). It uses a print
   statement to prompt the user for a value. The console then assigns the value input by the user to the int 
