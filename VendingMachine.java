@@ -8,7 +8,7 @@
 */
 import java.util.*;
 
-public class Problem1
+public class VendingMachine
 {
   /*Main method declares and invokes a Scanner object (console) to take input from the standard interface. It also declares
     and initializes 3 int variables (quarters, dimes, nickels) and sets them to 0. Method then prints a statement
