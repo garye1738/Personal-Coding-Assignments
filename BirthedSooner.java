@@ -1,7 +1,7 @@
 /* Name: Gabriel Arye
    Email: gabrielarye@brandeis.edu
    Date: October 26, 2018
-   PA4, Problem 3: Program uses a Scanner class object to prompt the user for two 
+   PA4, BirthedSooner: Program uses a Scanner class object to prompt the user for two 
    person's birthdays and the current date, and it returns the remaining days until 
    each person's birthday, as well as which person's birthday is sooner.
    Bugs: None
@@ -9,7 +9,7 @@
 
 import java.util.*;
 
-public class Problem3
+public class BirthedSooner
 {
   /*Main method: creates and invokes an instance of object of the Scanner class (named console). It uses a print 
   statment to prompt the user for person one's birthday, which console then assigns to int variable 
