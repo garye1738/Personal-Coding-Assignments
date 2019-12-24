@@ -9,7 +9,7 @@
 
 import java.util.*;
 
-public class Problem5
+public class GridMaker
 {
   /*Main method: initialzies and invokes an instance object of the Scanner class (called console). The method uses a print statement
     to prompt the user for the number of rows they want the program to use. The integer they enter is then assigned to the int variable rows
