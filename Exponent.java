@@ -10,7 +10,7 @@
 
 import java.util.*;
 
-public class Problem2
+public class Exponent
 {
   /*Main method: initializes and invokes an instance object of the Scanner class (called console). Uses a print statement to prompt the user
     for an expnent to be applied to 2. The user's input is then assigned to the int variable exponent by console (using console.nextInt()).
