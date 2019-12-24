@@ -1,7 +1,7 @@
 /* Name: Gabriel Arye
    Email: gabrielarye@brandeis.edu
    Date: September 21, 2018
-   PA1, Problem 4: Program is supposed to take on two double parameters,
+   PA1, MileageReimbursement: Program is supposed to take on two double parameters,
    calculate the distance travelled, calculate the reimbursement available, then
    return the information as print statements.
    Bugs: None. Just dont know if there is a way to shorten the statements in the
