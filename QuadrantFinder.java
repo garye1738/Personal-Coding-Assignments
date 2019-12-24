@@ -1,7 +1,7 @@
 /* Name: Gabriel Arye
    Email: gabrielarye@brandeis.edu
    Date: October 26, 2018
-   PA4, Problem 4: Program uses a Scanner class object to prompt the user for two 
+   PA4, QuadrantFinder: Program uses a Scanner class object to prompt the user for two 
    double values on a grid. It will return to the user the quandrant the value pair 
    is located in, the line it lies on, or if it lies at the origin.
    Bugs: None
@@ -9,7 +9,7 @@
 
 import java.util.*;
 
-public class Problem4
+public class QuadrantFinder
 {
   /*Main method: creates an invokes and instance object of the Scanner class (named
   console). It prints a statement that asks the user to enter a decimal for the x 
