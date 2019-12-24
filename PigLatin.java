@@ -7,7 +7,7 @@
 */
 import java.util.*;
 
-public class Problem5
+public class PigLatin
 {
   /*Main method: creates an object of the Scanner class (console) connected to the standard input. Prints a statement prompting the
     user to enter their first name, which the console then assigns into the String variable first. It then pirnts a statement prompting them
