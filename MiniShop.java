@@ -8,7 +8,7 @@
 */
 import java.util.*;
 
-public class Problem4
+public class MiniShop
 {
   /*Main method: Declares and invokes an object of the Scanner class (console). It prints out statments asking the user
     for the name of an item (which console assigns to string firstName), the quantity of an item (which console assigns to
