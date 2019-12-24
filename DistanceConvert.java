@@ -7,7 +7,7 @@
 */
 import java.util.*;
 
-public class Problem2
+public class DistanceConvert
 {
   /*Main method declares and invokes a Scanner object (console) to take input from the standard interface. Uses a
     println statement to prompt the user to enter a length in miles as a decimal. The length input is then assigned/stored to
