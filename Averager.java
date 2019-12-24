@@ -8,7 +8,7 @@
 */
 import java.util.*;
 
-public class Problem3
+public class Averager
 {
   /*Main method: initializes and invokes a Scanner class object (console). Then, the method prompts the user
   with a print statement to input the first integer of three integers to find the average of. The Scanner
