@@ -1,7 +1,7 @@
 /* Name: Gabriel Arye
    Email: gabrielarye@brandeis.edu
    Date: November 9, 2018
-   PA5, Problem 1: Program prompts the user for an array of integer values, and then returns true if 
+   PA5, UniqueArray: Program prompts the user for an array of integer values, and then returns true if 
    the array is unique and it doesn't have any repeating values, and false if it does have any 
    repeating values.
    Bugs: None
@@ -9,7 +9,7 @@
 
 import java.util.*;
 
-public class Problem1 
+public class UniqueArray 
 {
   /*Main method: creates and invokes an instance object of the Scanner class (console). It uses a  
   print statement to prompt the user for the number of values they want in the array. An int array 
