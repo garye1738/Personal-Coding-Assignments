@@ -1,9 +1,9 @@
 /* Name: Gabriel Arye
    Email: gabrielarye@brandeis.edu
    Date: October 26, 2018
-   PA4, Problem 5: Program uses a Scanner class object to prompt the user for a message and an 
+   PA4, CaesarChipher: Program uses a Scanner class object to prompt the user for a message and an 
    encoding key (number) that will be used to give the user a message that is encoded by the 
-   Casearean Cipher.
+   Caesearean Cipher.
    Bugs: None. My code itself is 354 lines long, but it works. I don't know how to make it shorter.
    If there is a way to make it shorter or more condensed, please let me know in the comments for 
    the assignment.
@@ -11,7 +11,7 @@
 
 import java.util.*;
 
-public class Problem5
+public class CaesarCipher
 {
   /*Main method: creates and invokes an instance object of the Scanner class (named console).
   Uses a print statement to prompt the user to type in a message to be used in the cipher.
