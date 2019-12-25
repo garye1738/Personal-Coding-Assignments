@@ -1,7 +1,7 @@
 /* Name: Gabriel Arye
    Email: gabrielarye@brandeis.edu
    Date: November 9, 2018
-   PA5, Problem 3: Program prompts the user for an 
+   PA5, GetToOne: Program prompts the user for an 
    value, then it will divide the value by two if it is odd or multiply it by 3 and 
    add one to it and print back the new value. This process is repeated until the 
    value is 1. 
@@ -10,7 +10,7 @@
 
 import java.util.*;
 
-public class Problem3 
+public class GetToOne
 {
   /*Main method: creates and invokes an instance object of the Scanner class (console). A print 
   statement prompts the user for the number of bid values they want in the array. An int array 
