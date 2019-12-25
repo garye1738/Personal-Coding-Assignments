@@ -1,16 +1,15 @@
 /* Name: Gabriel Arye
    Email: gabrielarye@brandeis.edu
    Date: November 9, 2018
-   PA5, GetToOne: Program prompts the user for an 
-   value, then it will divide the value by two if it is odd or multiply it by 3 and 
-   add one to it and print back the new value. This process is repeated until the 
-   value is 1. 
+   PA5, BidFinder: Program prompts the user for an array of integer values of bids as well as a 
+   correct price. The program will return which value in the array is closest to the correct price 
+   without going over it. 
    Bugs: None
 */
 
 import java.util.*;
 
-public class GetToOne
+public class BidFinder
 {
   /*Main method: creates and invokes an instance object of the Scanner class (console). A print 
   statement prompts the user for the number of bid values they want in the array. An int array 
