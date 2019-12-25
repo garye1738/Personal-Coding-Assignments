@@ -1,7 +1,7 @@
 /* Name: Gabriel Arye
    Email: gabrielarye@brandeis.edu
    Date: November 9, 2018
-   PA5, BidFinder: Program prompts the user for an array of integer values of bids as well as a 
+   PA5, SortLength: Program prompts the user for an array of integer values of bids as well as a 
    correct price. The program will return which value in the array is closest to the correct price 
    without going over it. 
    Bugs: None
@@ -9,7 +9,7 @@
 
 import java.util.*;
 
-public class BidFinder 
+public class SortLength
 {
   /*Main method: creates and invokes an instance object of the Scanner class (console). A print 
   statement prompts the user for the number of values they want in the array. An int array 
