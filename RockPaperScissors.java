@@ -1,7 +1,7 @@
 /* Name: Gabriel Arye
    Email: gabrielarye@brandeis.edu
    Date: November 19, 2018
-   PA6, Problem 1: Program prompts the user for a choice of random thinking or
+   PA6, RockPaperScissors: Program prompts the user for a choice of random thinking or
    calculated thinking while playing rock, paper, scissors. The computer will
    then play a game of rock, paper, scissors using the method that they have
    chosen (either random or thinking). It will return the final score at the
@@ -11,7 +11,7 @@
 
 import java.util.*;
 
-public class Problem1
+public class RockPaperScissors
 {
   /*main method(): creates a Scanner object (console). Then it prompts the use to play
   rock paper scissors and choose either the "random" mode or the "think" mode for
