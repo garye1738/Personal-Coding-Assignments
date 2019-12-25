@@ -1,7 +1,7 @@
 /* Name: Gabriel Arye
    Email: gabrielarye@brandeis.edu
    Date: November 19, 2018
-   PA6, Problem 2: Program prompts the user to play a guessing game. The
+   PA6, NumberGuesser: Program prompts the user to play a guessing game. The
    program will guess from a range of numbers (the highest one being
    determined the the final int VAR right under the class). The program will
    guess numbers, have the uder tell them if their number is higher or lower,
@@ -13,7 +13,8 @@
 
 import java.util.*;
 
-public class Problem2 {
+public class NumberGuesser 
+{
   /*static final int VAR: shows the max range of the integer values that the computer
   will try to guess up to. Can be edited by grader :)
   */
