@@ -1,7 +1,7 @@
 /* Name: Gabriel Arye
    Email: gabrielarye@brandeis.edu
    Date: November 19, 2018
-   PA6, Problem 3: Program prompts the user for a word length and then the word
+   PA6, Hangman: Program prompts the user for a word length and then the word
    that they want the computer to try and guess. Te computer is allowed six
    wrong letter answers before they lose the game and a complete hangman is
    hung.
@@ -10,7 +10,7 @@
 
 import java.util.*;
 
-public class Problem3
+public class Hangman
 {
   /*main method(): creates and constructs a Scanner object (named console). It then uses a print statement to
   tell the user that they are playing a game of hangman. A print statement prompts the user for how many letters
