@@ -1,9 +1,8 @@
 /* Name: Gabriel Arye
    Email: gabrielarye@brandeis.edu
    Date: November 9, 2018
-   PA5, SortLength: Program prompts the user for an array of integer values of bids as well as a 
-   correct price. The program will return which value in the array is closest to the correct price 
-   without going over it. 
+   PA5, SortLength: Program prompts the user for an array of integer values, and it will return
+   the length of the longest sequence of sorted integers in the array
    Bugs: None
 */
 
